@@ -6,3 +6,5 @@ $product = new Product;
 
 // Call the Method
 $product->deleteProduct($_POST);
+
+// comment for git
